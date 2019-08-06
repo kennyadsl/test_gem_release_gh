@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 RSpec.describe TestGemReleaseGh do
   it "has a version number" do
     expect(TestGemReleaseGh::VERSION).not_to be nil

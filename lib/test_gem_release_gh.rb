@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "test_gem_release_gh/version"
 
 module TestGemReleaseGh
