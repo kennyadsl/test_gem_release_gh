@@ -1,6 +1,7 @@
 GIT
-  remote: git://github.com/svenfuchs/gem-release.git
-  revision: 29124d7ed83cce45871a1e148a821ef2aa7987c2
+  remote: https://github.com/svenfuchs/gem-release.git
+  revision: 55af839c032067cb83d61c8abdb58333edbbd917
+  ref: 55af839c032067cb83d61c8abdb58333edbbd917
   branch: sf-github-release
   specs:
     gem-release (2.0.0.rc.2)
