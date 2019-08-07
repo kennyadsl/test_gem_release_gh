@@ -9,7 +9,7 @@ GIT
 PATH
   remote: .
   specs:
-    test_gem_release_gh (0.1.7)
+    test_gem_release_gh (0.1.8)
 
 GEM
   remote: https://rubygems.org/
