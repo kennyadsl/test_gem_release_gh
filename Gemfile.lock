@@ -4,7 +4,7 @@ GIT
   ref: 55af839c032067cb83d61c8abdb58333edbbd917
   branch: sf-github-release
   specs:
-    gem-release (2.0.0.rc.2)
+    gem-release (2.0.3)
 
 PATH
   remote: .
