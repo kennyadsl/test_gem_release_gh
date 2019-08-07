@@ -2,8 +2,9 @@
 
 source "https://rubygems.org"
 
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
-gem "gem-release", github: "svenfuchs/gem-release", branch: "sf-github-release", ref: "55af839c032067cb83d61c8abdb58333edbbd917"
+# git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+# gem "gem-release", github: "svenfuchs/gem-release", branch: "sf-github-release", ref: "55af839c032067cb83d61c8abdb58333edbbd917"
+gem "gem-release", path: '../gem-release'
 
 gem 'byebug'
 
